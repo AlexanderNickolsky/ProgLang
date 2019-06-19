@@ -1,0 +1,5 @@
+#!/bin/sh
+cd ..
+cat proglang1.md proglang2.md proglang3.md proglang4.md proglang5.md > proglang.md
+pandoc -fmarkdown -o release/proglang.epub proglang.md
+pandoc -fmarkdown -o release/proglang.docx proglang.md
