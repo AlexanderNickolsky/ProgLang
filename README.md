@@ -9,8 +9,14 @@
 Можно читать онлайн:
 
 [Часть 1](proglang1.md)
+
 [Часть 2](proglang2.md)
+
 [Часть 3](proglang3.md)
+
 [Часть 4](proglang4.md)
+
 [Часть 5](proglang5.md)
+
+или загрузите себе [PDF](release/proglang.pdf)
 
